@@ -1,0 +1,73 @@
+{
+  "templateName": "detailsPage",
+  ":itemsOrder": [
+    "overview"
+  ],
+  ":items": {
+    "OverviewHeaderSection": {
+      "header": {
+        "title": "Executive King Suite",
+        "primaryAction": {
+          "label": "Check Rates",
+          "url": "/en/booking/room-booking.html#/?selectedPropertyId=66964e2b-2550-4476-84c3-1a4c0c5c067f&roomTypeId=aem-gen2"
+        },
+        "secondaryAction": {
+          "label": "Compare Rooms",
+          "url": "/en/hotel/room-comparison.html"
+        }
+      },
+      "main": {
+        "title": "Get down to business.",
+        "content": "There’s plenty of room for work and play in our Executive King Suite with its comfortable, modern design. Its elegant, modern design features a media hub for all your gadgets, plenty of space to get work done, and plush furnishings to ensure your comfort all the while.",
+        "primaryAction": {
+          "label": "Check Rates",
+          "url": "/en/booking/room-booking.html#/?selectedPropertyId=66964e2b-2550-4476-84c3-1a4c0c5c067f&roomTypeId=aem-gen2"
+        },
+        "secondaryAction": {
+          "label": "Compare Rooms",
+          "url": "/en/hotel/room-comparison.html"
+        }
+      },
+      "sidebarSections": [
+        {
+          "headline": {
+            "content": {
+              "type": "text"
+            }
+          }
+        },
+        {
+          "headline": {},
+          "items": [
+            {
+              "type": "inline-text",
+              "text": "675"
+            },
+            {
+              "type": "inline-text",
+              "text": "1 kingone"
+            },
+            {
+              "type": "inline-text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "headline": {}
+        },
+        {}
+      ],
+      "heroImages": [
+        {
+          "url": "https://dev2.mgmgrand.com/content/dam/MGM/mgm-grand/hotel/mgm-grand/executive-king-suite/architecture/mgm-grand-hotel-rooms-executive-king-interior-living-room-bedroom-city-view-@2x.jpg",
+          "alt": "The Executive Suite is sophisticated yet functional suite with King size bed and luxurious living space."
+        }
+      ]
+    },
+    "FooterCopyRight": {
+      "year":"2018-2019",
+      "copyrightLink" : "MGMGrand copyright @ {year}"
+    }
+  }
+}

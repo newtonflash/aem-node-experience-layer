@@ -1,0 +1,23 @@
+export default {
+    'aria': 'aria',
+    'beaurivage': 'beauRivage',
+    'bellagio': 'bellagio',
+    'cabana': 'cabana',
+    'cclv': 'cclv',
+    'delano': 'delano',
+    'detroit': 'detroit',
+    'excalibur': 'excalibur',
+    'goldstrike': 'goldStrike',
+    'luxor': 'luxor',
+    'mandalaybay': 'mandalayBay',
+    'mgmgrand': 'mgmGrand',
+    'mgmresorts': 'mgmResorts',
+    'mirage': 'mirage',
+    'nationalharbor': 'nationalHarbor',
+    'nomad': 'noMad',
+    'nyny': 'nyny',
+    'parkmgm': 'parkMgm',
+    'signature': 'signature',
+    'springfield': 'springField',
+    'vdara': 'vdara'
+}

@@ -11,6 +11,6 @@ npm start
 ```
 And then put the below url in the browser
 
-http://localhost:6001/pages/mgmgrand.html
+http://localhost:6001/pages/<theme>.html
 
 Note, for the POC purpose, it reads page name as <theme>.html so passing themes will change the styles of the page.
